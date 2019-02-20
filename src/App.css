@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  display: inline-block;
+
+  border: 2px;
+  min-height: 100vh;
+  background-color: rgba(23, 212, 23, 0.507);
+}
+
+.App-style {
+  display: inline-block;
+  margin: 10px;
+  border: 10px rgb(230, 23, 23);
+  box-shadow: 0 2px 2px rgb(17, 17, 17);
+  box-sizing: 200px 200px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: rgb(47, 173, 31);
 }
 
 .App-logo {
